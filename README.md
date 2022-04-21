@@ -36,8 +36,8 @@ In this case I'm using Anaconda.
 
 ## Technology we use
 <p align="left"> 
-  <img alt="Python" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" />　
-  <img alt="selenium" height="64px" src="https://www.selenium.dev/images/logos/webdriver.svg" />
+  <a href="https://www.python.org/"><img alt="Python" height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/165px-Python-logo-notext.svg.png" /></a>　
+  <a href="https://www.selenium.dev/"><img alt="selenium" height="64px" src="https://www.selenium.dev/images/logos/webdriver.svg" /></a>
 </p>
 
 ## Featured In 
